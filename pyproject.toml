@@ -1,0 +1,10 @@
+[project]
+name = "mix_market"
+version = "0.1.0"
+description = "Платформа типа «Ленты»: микросервисы, DDD, Clean Arch, Saga+Outbox, gRPC/брокеры, RBAC, админка, аналитика. Функции: авторизация (JWT), профили, каталог, корзина, отзывы и рекомендации: Distributed cache"
+requires-python = ">=3.10"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
